@@ -17,7 +17,7 @@
   #### Before Changing 9th grade scores
 ![Pre Change School Summary](./Resources/PreNaN_School.png)
 
-####After Changing 9th grade scores
+#### After Changing 9th grade scores
 ![After Change School Summary](./Resources/AfterNaN_School.png)
 
 * Looking at Thomas High School, the overall passing percentage (% Overall Passing) has dropped by over 25%.
