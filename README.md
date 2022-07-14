@@ -26,7 +26,7 @@ Relative to the other schools in the district it has moved from being the 2nd hi
 ##### How does replacing the ninth grade scores affect the following?
 * In terms of math and reading scores by grade, for Thomas High School it completely removed their math average of a ~ 83% to Not a number (NaN).
 
-*Looking at Score by School Spending, although it is not a big part of the district, the results of the academic dishonesty has caused the % Overall Passing to drop.
+* Looking at Score by School Spending, although it is not a big part of the district, the results of the academic dishonesty has caused the % Overall Passing to drop.
 
 * In Scores by School Size as well as Scores by School Type, it made no significant effect.
  
