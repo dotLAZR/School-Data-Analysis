@@ -12,7 +12,7 @@
 
 * Look at the figures above, our analysis shows a drop (although not too big) in our district averages in math. Changing the grades from what they were to NaN our analysis counts the students but not the grade, therefore bringing our district average down.
 
-## Thomas High School Analysis
+### Thomas High School Analysis
   
 ![Pre Change School Summary](./Resources/PreNaN_School.png)
 
