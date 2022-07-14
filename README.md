@@ -12,10 +12,12 @@
 
 * Look at the figures above, our analysis shows a drop (although not too big) in our district averages in math. Changing the grades from what they were to NaN our analysis counts the students but not the grade, therefore bringing our district average down.
 
-### Thomas High School Analysis
-  
+### Thomas High School Analysis (compared to other schools)
+
+  #### Before Changing 9th grade scores
 ![Pre Change School Summary](./Resources/PreNaN_School.png)
 
+####After Changing 9th grade scores
 ![After Change School Summary](./Resources/AfterNaN_School.png)
 
 * Looking at Thomas High School, the overall passing percentage (% Overall Passing) has dropped by over 25%.
